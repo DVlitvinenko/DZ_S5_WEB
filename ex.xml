@@ -1,0 +1,91 @@
+<section>
+  <film>
+   <name>
+     Один дома
+   </name>
+   <genre>
+      Комедия
+   </genre>
+   <yerPremier>
+     1990
+   </yerPremier>
+   <director>
+     Крис Коламбус
+   </director>
+   <country>
+     США
+   </country>
+  </film>
+
+  <film>
+    <name>
+     Зеленая миля
+    </name>
+    <genre>
+    Драма
+    </genre>
+    <yerPremier>
+      1999
+    </yerPremier>
+    <director>
+    Фрэнк Дарабонт
+    </director>
+    <country>
+    США
+    </country>
+  </film>
+
+  <film>
+    <name>
+    Властелин колец: Братство Кольца
+    </name>
+    <genre>
+    Фэнтези
+    </genre>
+    <yerPremier>
+    2001
+    </yerPremier>
+    <director>
+    Питер Джексон
+    </director>
+    <country>
+    Новая Зеландия
+    </country>
+  </film>
+
+  <film>
+    <name>
+    Москва слезам не вери
+    </name>
+    <genre>
+    Мелодрама
+    </genre>
+    <yerPremier>
+    1979
+    </yerPremier>
+    <director>
+    Ирина Муравьева
+    </director>
+    <country>
+    СССР
+    </country>
+  </film>
+
+  <film>
+    <name>
+    Гарри Поттер и философский камень
+    </name>
+    <genre>
+    Фэнтези
+    </genre>
+    <yerPremier>
+    2001
+    </yerPremier>
+    <director>
+    Крис Коламбус
+    </director>
+    <country>
+    Великобретания
+    </country>
+  </film>
+</section>
